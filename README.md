@@ -1,4 +1,4 @@
-# NLW eSports - Desafio
+# NLW eSports - Desafio 🧑🏽‍💻
 
 ![preview](./.github/preview.jpg)
 
