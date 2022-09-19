@@ -6,7 +6,7 @@
 
 Projeto desenvolvido de acordo com o desafio da Maratona Explorer na NLW eSports.
 
-[🔗 Clique aqui para acessar o projeto](https://devjoaogabriel.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar o projeto](https://devjoaogabriel.github.io/nlw-esports-explorer-challenge/)
 
 ## ⚒️ Tecnologias:
 
