@@ -119,3 +119,13 @@ section ul li {
 section ul li:hover {
     transform: scale(1.1);
 }
+
+@media (max-width: 440px) {
+    section div {
+        text-align: center;
+    }
+    section ul {
+        align-items: center;
+        justify-content: center;
+    }
+}
